@@ -1,3 +1,5 @@
+package testM;
+
 import com.example.optimistics.ModularArithmetic;
 import org.junit.jupiter.api.Test;
 
