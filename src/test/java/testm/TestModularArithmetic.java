@@ -1,4 +1,4 @@
-package testM;
+package testm;
 
 import com.example.optimistics.ModularArithmetic;
 import org.junit.jupiter.api.Test;
